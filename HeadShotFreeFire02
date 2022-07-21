@@ -1,26 +1,22 @@
 {
-   "Ads":[
-      {
-         "app_id":"ca-app-pub-3940256099942544~3347511711",
-         "banner_id":"2dca1f927fb74fd194a3e779828b05c9",
-         "interstitial_id":"3a92ff16785448cab2abd2e87339496a",
-         "native_id":"fb27f158829d402bbd38fe1d638177fc",
-         "qureka_ads":"https://831.win.qureka.com/",
-         "status":"true",
-         "splash_ads":"false"
-      },
-      {
-         "app_id":"",
-         "banner_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "interstitial_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-          "interstitial_id1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-          "interstitial_id2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "native_id":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-         "native_banner_id":"",
-         "rectangle_banner_id":"",
-         "status":"true",
-         "splash_ads":"false"
-         
-}
-   ]
+   "app_redirectOtherAppStatus":"0",
+   "app_newPackageName":"https://play.google.com/store/apps/details?id=starutsav.freestarutsavserialsapps15.freestarutsavserialsapp",
+   "app_AppOpenAdStatus":"0",
+   "qureka":"https://281.go.mglgamez.com",
+   "qureka_splash":"0",
+   "qureka_status":"0",
+   "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
+   "admob_showAdStatus":"0",
+   "AppID":"ca-app-pub-5517092987757413~8240781391",
+   "Admob_Banner":"ca-app-pub-3940256099942544/6300978112",
+   "Admob_Interstitial":"ca-app-pub-3940256099942544/1031173712",
+   "Admob_Native":"ca-app-pub-3940256099942544/2247296110",
+   "AppOpen":"ca-app-pub-3940256099942544/3419835294",
+   "topon_showStatus":"1",
+   "topon_appid":"",
+   "topon_appkey":"",
+   "topon_banner":"",
+   "topon_inter1":"",
+   "topon_inter2":"",
+   "topon_native":""
 }
